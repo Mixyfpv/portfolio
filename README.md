@@ -1,3 +1,6 @@
+# Social media
+https://www.instagram.com/mixyfpv/
+
 # Finished projects
 ## "Quick ducts"
 Simple duct system compatible for most 5 inch racing drone making it possible to protect drones that were not directly purpose built for usage around people or fragile property :
