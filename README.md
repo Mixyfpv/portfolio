@@ -2,7 +2,7 @@
 ## "Quick ducts"
 Simple duct system compatible for most 5 inch racing drone making it possible to protect drones that were not directly purpose built for usage around people or fragile property :
 https://github.com/Mixyfpv/mixys_quick_ducts
-<img src="https://github.com/Mixyfpv/mixys_quick_ducts/blob/main/pics_and_renders/ducts_full.JPG" height="400">
+<img src="https://github.com/Mixyfpv/mixys_quick_ducts/blob/main/pics_and_renders/ducts_full.JPG" height="300"><img src="https://github.com/Mixyfpv/mixys_quick_ducts/blob/main/pics_and_renders/exploded_view_v3.JPG" height="300">
 
 # Projects still in the works
 ## Specific camera mount
